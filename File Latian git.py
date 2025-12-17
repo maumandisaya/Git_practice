@@ -6,4 +6,8 @@ print(r"Akhirnya pake VScode \n")
 def print_hello() : 
     print("Hello")
 
+def greetings(name):
+    print(f"Halo, {name}")
+
 print_hello()
+greetings("ASEP")
