@@ -1,3 +1,9 @@
 #Percobaan make git
 print(r"Akhirnya pake VScode \n")
-import numpy as np
+
+#Tambahan 1
+
+def print_hello() : 
+    print("Hello")
+
+print_hello()
